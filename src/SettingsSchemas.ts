@@ -55,6 +55,7 @@ export enum SearchEngineType {
 
 export enum DagOrientation {
   td = "td",
+  tdo = "tdo",
   bu = "bu",
   lr = "lr",
   rl = "rl",
